@@ -3,6 +3,6 @@ AI based discourse for Banking Industry<br>
 <b>TEAM LEADER</b> : NAGA SAPTA AAKASH <br>
 
 <b>TEAM MEMBERS</b><br>
-<ul>ADHI NARAYANA KESAVAN</ul><br>
-<ul>RAHUL VISWANATH</ul><br>
-<ul>GOWRI SUPRAMANAIAN</ul>
+1.ADHI NARAYANA KESAVAN<br>
+2.RAHUL VISWANATH<br>
+3.GOWRI SUPRAMANAIAN
